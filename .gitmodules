@@ -67,3 +67,6 @@
 [submodule "Weather/OpenWeatherMapAPI"]
 	path = Weather/OpenWeatherMapAPI
 	url = https://github.com/adba/OpenWeatherMapAPI
+[submodule "Flickr/objectiveflickr"]
+	path = Flickr/objectiveflickr
+	url = https://github.com/lukhnos/objectiveflickr
