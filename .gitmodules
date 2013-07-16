@@ -1,0 +1,69 @@
+[submodule "HackerNews/Hacker-News-for-iOS"]
+	path = HackerNews/Hacker-News-for-iOS
+	url = https://github.com/mmackh/Hacker-News-for-iOS.git
+[submodule "HackerNews/Hackers"]
+	path = HackerNews/Hackers
+	url = https://github.com/weiran/Hackers.git
+[submodule "GitHub/octokit.objc"]
+	path = GitHub/octokit.objc
+	url = https://github.com/octokit/octokit.objc.git
+[submodule "GitHub/UAGithubEngine"]
+	path = GitHub/UAGithubEngine
+	url = https://github.com/owainhunt/UAGithubEngine.git
+[submodule "GitHub/GitHubObjC"]
+	path = GitHub/GitHubObjC
+	url = https://github.com/ernstsson/GitHubObjC.git
+[submodule "GitHub/RKGithub"]
+	path = GitHub/RKGithub
+	url = https://github.com/blakewatters/RKGithub.git
+[submodule "Evernote/EvernoteAPI"]
+	path = Evernote/EvernoteAPI
+	url = https://github.com/sonsongithub/EvernoteAPI.git
+[submodule "Evernote/evernote-sdk-ios"]
+	path = Evernote/evernote-sdk-ios
+	url = https://github.com/evernote/evernote-sdk-ios.git
+[submodule "Instagram/WFInstagramAPI"]
+	path = Instagram/WFInstagramAPI
+	url = https://github.com/wfleming/WFInstagramAPI.git
+[submodule "Instagram/NRGramKit"]
+	path = Instagram/NRGramKit
+	url = https://github.com/NextRoot/NRGramKit.git
+[submodule "Instagram/Instagram"]
+	path = Instagram/Instagram
+	url = https://github.com/stuartkhall/Instagram.git
+[submodule "Instagram/instagram-ios-sdk"]
+	path = Instagram/instagram-ios-sdk
+	url = https://github.com/crino/instagram-ios-sdk.git
+[submodule "Instagram/grabKit"]
+	path = Instagram/grabKit
+	url = https://github.com/pierrotsmnrd/grabKit
+[submodule "Instagram/AmazonS3"]
+	path = Instagram/AmazonS3
+	url = https://github.com/AFNetworking/AFAmazonS3Client.git
+[submodule "Tumblr/ObjectiveTumblr"]
+	path = Tumblr/ObjectiveTumblr
+	url = https://github.com/IgnitionSoft/ObjectiveTumblr.git
+[submodule "AJS-iTunes-API"]
+	path = AJS-iTunes-API
+	url = https://github.com/andysmart/AJS-iTunes-API
+[submodule "iTunes/KKITunesSearch"]
+	path = iTunes/KKITunesSearch
+	url = https://github.com/lakim/KKITunesSearch.git
+[submodule "Weather/WeatherKit"]
+	path = Weather/WeatherKit
+	url = https://github.com/rnystrom/WeatherKit
+[submodule "Weather/Weather"]
+	path = Weather/Weather
+	url = https://github.com/escherba/Weather
+[submodule "Weather/Yahoo-Weather"]
+	path = Weather/Yahoo-Weather
+	url = https://github.com/shaydesdsgn/Yahoo-Weather
+[submodule "Weather/CoreWeather"]
+	path = Weather/CoreWeather
+	url = https://github.com/MegaBits/CoreWeather
+[submodule "Weather/World-Weather-Online"]
+	path = Weather/World-Weather-Online
+	url = https://github.com/shaydesdsgn/World-Weather-Online
+[submodule "Weather/OpenWeatherMapAPI"]
+	path = Weather/OpenWeatherMapAPI
+	url = https://github.com/adba/OpenWeatherMapAPI
