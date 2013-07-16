@@ -43,9 +43,6 @@
 [submodule "Tumblr/ObjectiveTumblr"]
 	path = Tumblr/ObjectiveTumblr
 	url = https://github.com/IgnitionSoft/ObjectiveTumblr.git
-[submodule "AJS-iTunes-API"]
-	path = AJS-iTunes-API
-	url = https://github.com/andysmart/AJS-iTunes-API
 [submodule "iTunes/KKITunesSearch"]
 	path = iTunes/KKITunesSearch
 	url = https://github.com/lakim/KKITunesSearch.git
@@ -70,3 +67,6 @@
 [submodule "Flickr/objectiveflickr"]
 	path = Flickr/objectiveflickr
 	url = https://github.com/lukhnos/objectiveflickr
+[submodule "iTunes/AJS-iTunes-API"]
+	path = iTunes/AJS-iTunes-API
+	url = https://github.com/andysmart/AJS-iTunes-API
