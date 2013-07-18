@@ -70,3 +70,12 @@
 [submodule "iTunes/AJS-iTunes-API"]
 	path = iTunes/AJS-iTunes-API
 	url = https://github.com/andysmart/AJS-iTunes-API
+[submodule "PayPal/PayPal-iOS-SDK"]
+	path = PayPal/PayPal-iOS-SDK
+	url = https://github.com/paypal/PayPal-iOS-SDK
+[submodule "YouTube/HCYoutubeParser"]
+	path = YouTube/HCYoutubeParser
+	url = https://github.com/hellozimi/HCYoutubeParser
+[submodule "YouTube/YoutubeAPI"]
+	path = YouTube/YoutubeAPI
+	url = https://github.com/ilyapuchka/YoutubeAPI
