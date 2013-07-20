@@ -82,3 +82,6 @@
 [submodule "Tumblr/TumblrKit"]
 	path = Tumblr/TumblrKit
 	url = https://github.com/isutton/TumblrKit
+[submodule "DropBox/ParcelKit"]
+	path = DropBox/ParcelKit
+	url = https://github.com/overcommitted/ParcelKit
