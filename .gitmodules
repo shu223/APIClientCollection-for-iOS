@@ -79,3 +79,6 @@
 [submodule "YouTube/YoutubeAPI"]
 	path = YouTube/YoutubeAPI
 	url = https://github.com/ilyapuchka/YoutubeAPI
+[submodule "Tumblr/TumblrKit"]
+	path = Tumblr/TumblrKit
+	url = https://github.com/isutton/TumblrKit
