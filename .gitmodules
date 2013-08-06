@@ -85,3 +85,6 @@
 [submodule "DropBox/ParcelKit"]
 	path = DropBox/ParcelKit
 	url = https://github.com/overcommitted/ParcelKit
+[submodule "Twitter/SocialAPIHelpers"]
+	path = Twitter/SocialAPIHelpers
+	url = https://github.com/shu223/SocialAPIHelpers
