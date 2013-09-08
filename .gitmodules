@@ -88,3 +88,12 @@
 [submodule "Twitter/SocialAPIHelpers"]
 	path = Twitter/SocialAPIHelpers
 	url = https://github.com/shu223/SocialAPIHelpers
+[submodule "Klout/klout-ios-sdk"]
+	path = Klout/klout-ios-sdk
+	url = https://shu223@github.com/tokyootakumode/node-gumroad.git
+[submodule "Klout/KloutConnectorV2"]
+	path = Klout/KloutConnectorV2
+	url = https://github.com/xzoky/KloutConnectorV2
+[submodule "CrunchBase/CrunchBaseClient"]
+	path = CrunchBase/CrunchBaseClient
+	url = https://github.com/shu223/CrunchBase-API-Client-for-iOS
