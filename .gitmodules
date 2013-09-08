@@ -97,3 +97,6 @@
 [submodule "CrunchBase/CrunchBaseClient"]
 	path = CrunchBase/CrunchBaseClient
 	url = https://github.com/shu223/CrunchBase-API-Client-for-iOS
+[submodule "Klout/KloutAPIClient"]
+	path = Klout/KloutAPIClient
+	url = https://github.com/shu223/Klout-API-Client-for-iOS
