@@ -100,3 +100,6 @@
 [submodule "Klout/KloutAPIClient"]
 	path = Klout/KloutAPIClient
 	url = https://github.com/shu223/Klout-API-Client-for-iOS
+[submodule "Tumblr/TMTumblrSDK"]
+	path = Tumblr/TMTumblrSDK
+	url = https://github.com/tumblr/TMTumblrSDK
