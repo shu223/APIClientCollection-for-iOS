@@ -106,3 +106,6 @@
 [submodule "Foursquare/foursquare-ios-api"]
 	path = Foursquare/foursquare-ios-api
 	url = https://github.com/baztokyo/foursquare-ios-api
+[submodule "Foursquare/Foursquare-API-v2"]
+	path = Foursquare/Foursquare-API-v2
+	url = git@github.com:Constantine-Fry/Foursquare-API-v2.git
