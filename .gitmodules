@@ -103,3 +103,6 @@
 [submodule "Tumblr/TMTumblrSDK"]
 	path = Tumblr/TMTumblrSDK
 	url = https://github.com/tumblr/TMTumblrSDK
+[submodule "Foursquare/foursquare-ios-api"]
+	path = Foursquare/foursquare-ios-api
+	url = https://github.com/baztokyo/foursquare-ios-api
